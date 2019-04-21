@@ -28,3 +28,22 @@ Site is hosted using gh-pages. Click [here](https://kartik1607.github.io/angular
 - [x] Material Design
 - [x] Responsive
 - [x] Offline Support (PWA)
+
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running as PWA
+
+Run `ng build --prod` to build the project. The build will be stoed in `dist/` directory. Use `http-server` to serve that directory.
+Site will run on port `8080` by default. Navigate to `http://localhost:8080`. After intial load, site will run offline as well.
+
