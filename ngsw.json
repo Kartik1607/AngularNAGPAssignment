@@ -1,21 +1,21 @@
 {
   "configVersion": 1,
-  "timestamp": 1555825338574,
-  "index": "/index.html",
+  "timestamp": 1555826619327,
+  "index": "/angular-nagp-assignment/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/5.js",
-        "/es2015-polyfills.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.js",
-        "/polyfills.js",
-        "/runtime.js",
-        "/styles.css"
+        "/angular-nagp-assignment/5.js",
+        "/angular-nagp-assignment/es2015-polyfills.js",
+        "/angular-nagp-assignment/favicon.ico",
+        "/angular-nagp-assignment/index.html",
+        "/angular-nagp-assignment/main.js",
+        "/angular-nagp-assignment/polyfills.js",
+        "/angular-nagp-assignment/runtime.js",
+        "/angular-nagp-assignment/styles.css"
       ],
       "patterns": []
     },
@@ -24,15 +24,15 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/images/bg.jpeg"
+        "/angular-nagp-assignment/assets/icons/icon-128x128.png",
+        "/angular-nagp-assignment/assets/icons/icon-144x144.png",
+        "/angular-nagp-assignment/assets/icons/icon-152x152.png",
+        "/angular-nagp-assignment/assets/icons/icon-192x192.png",
+        "/angular-nagp-assignment/assets/icons/icon-384x384.png",
+        "/angular-nagp-assignment/assets/icons/icon-512x512.png",
+        "/angular-nagp-assignment/assets/icons/icon-72x72.png",
+        "/angular-nagp-assignment/assets/icons/icon-96x96.png",
+        "/angular-nagp-assignment/assets/images/bg.jpeg"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500",
@@ -42,23 +42,23 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5.js": "c1a310f96c5eed7fea5b8d17b43bd7577811ccbc",
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/images/bg.jpeg": "7758a1efd23c7355c45bb38ee403338b40fa6462",
-    "/es2015-polyfills.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "6d3e2ce1e4abe859d6626543c34c338bd2bace58",
-    "/main.js": "a6c6ba27f0204800e0e0537508749f98c3ae62cd",
-    "/polyfills.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/runtime.js": "97ba88c14e7b1bae888f4fe14231317bca864217",
-    "/styles.css": "a34ee089bb41f3aed3810135943142febb1975b4"
+    "/angular-nagp-assignment/5.js": "c1a310f96c5eed7fea5b8d17b43bd7577811ccbc",
+    "/angular-nagp-assignment/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-nagp-assignment/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-nagp-assignment/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-nagp-assignment/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-nagp-assignment/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-nagp-assignment/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-nagp-assignment/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-nagp-assignment/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-nagp-assignment/assets/images/bg.jpeg": "7758a1efd23c7355c45bb38ee403338b40fa6462",
+    "/angular-nagp-assignment/es2015-polyfills.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/angular-nagp-assignment/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/angular-nagp-assignment/index.html": "1f20238927a088a6718880f91e46f4554ad5017e",
+    "/angular-nagp-assignment/main.js": "a6c6ba27f0204800e0e0537508749f98c3ae62cd",
+    "/angular-nagp-assignment/polyfills.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/angular-nagp-assignment/runtime.js": "97ba88c14e7b1bae888f4fe14231317bca864217",
+    "/angular-nagp-assignment/styles.css": "a34ee089bb41f3aed3810135943142febb1975b4"
   },
   "navigationUrls": [
     {
